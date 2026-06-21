@@ -19,7 +19,7 @@ Os códigos e exercícios deste repositório ilustram a evolução desde os conc
 ### 🛠️ Stack Tecnológico
 *   **Linguagem:** C
 *   **Paradigma:** Estruturado / Procedural
-*   **Ambiente/Ferramentas:** Compilador GCC, Visual Studio Code (ou IDE equivalente)
+*   **Ambiente/Ferramentas:** Compilador GCC, Visual Studio Code, Codeblocks (ou IDE equivalente)
 
 ---
 *Desenvolvido por [@romerac](https://www.github.com/romerac) como parte do portfólio acadêmico e profissional.*
