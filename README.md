@@ -10,16 +10,16 @@ Neste espaço, documento a construção da minha base algorítmica e lógica de 
 ### 🚀 O que você encontrará por aqui?
 Os códigos e exercícios deste repositório ilustram a evolução desde os conceitos mais básicos de entrada e saída até a manipulação de estruturas lógicas complexas. As principais áreas exploradas incluem:
 
-*   **Fundamentos da Lógica:** Variáveis, tipos de dados primitivos, operadores lógicos/aritméticos e sintaxe base da linguagem.
-*   **Controle de Fluxo:** Implementação de estruturas condicionais (`if/else`, `switch`) e laços de repetição (`for`, `while`, `do-while`) para controle de execução.
-*   **Estruturas de Dados Estáticas:** Manipulação de vetores (arrays unidimensionais), matrizes multidimensionais e tratamento de cadeias de caracteres (strings).
-*   **Modularização:** Criação de funções e sub-rotinas para dividir problemas complexos em blocos de código menores, limpos e reutilizáveis.
+*   **Fundamentos da Lógica:** Variáveis, tipos de dados primitivos, operadores lógicos/aritméticos e sintaxe base da linguagem;
+*   **Controle de Fluxo:** Implementação de estruturas condicionais (`if/else`, `switch`) e laços de repetição (`for`, `while`, `do-while`) para controle de execução;
+*   **Estruturas de Dados Estáticas:** Manipulação de vetores (arrays unidimensionais), matrizes multidimensionais e tratamento de cadeias de caracteres (strings);
+*   **Modularização:** Criação de funções e sub-rotinas para dividir problemas complexos em blocos de código menores, limpos e reutilizáveis;
 *   **Tópicos Avançados (C):** Introdução aos ponteiros, passagem de parâmetros (por valor e referência) e o uso de `structs` para agrupamento de variáveis.
 
 ### 🛠️ Stack Tecnológico
-*   **Linguagem:** C
-*   **Paradigma:** Estruturado / Procedural
-*   **Ambiente/Ferramentas:** Compilador GCC, Visual Studio Code, Codeblocks (ou IDE equivalente)
+*   **Linguagem:** C;
+*   **Paradigma:** Estruturado / Procedural;
+*   **Ambiente/Ferramentas:** Compilador GCC, Visual Studio Code, Codeblocks (ou IDE equivalente).
 
 ---
 *Desenvolvido por [@romerac](https://www.github.com/romerac) como parte do portfólio acadêmico e profissional.*
