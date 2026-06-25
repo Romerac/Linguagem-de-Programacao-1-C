@@ -24,12 +24,6 @@ Os códigos e exercícios deste repositório ilustram a evolução desde os conc
 - **Modularização:** Criação de funções e sub-rotinas para dividir problemas complexos em blocos de código menores, limpos e reutilizáveis.
 - **Tópicos Avançados (C):** Introdução aos ponteiros, passagem de parâmetros (por valor e referência) e o uso de `structs` para agrupamento de variáveis.
 
-## 📁 Estrutura do Repositório
-
-- `\Atividades`: Exercícios e desafios práticos para fixação de algoritmos e lógica estruturada.
-- `\Exemplos`: Códigos conceituais desenvolvidos em sala de aula para fixação da matéria.
-- `\Projetos`: Pequenos projetos ou laboratórios práticos propostos ao longo do semestre.
-
 ## 🛠️ Pré-requisitos
 
 Para compilar e executar os códigos deste repositório, você precisará instalado em sua máquina:
